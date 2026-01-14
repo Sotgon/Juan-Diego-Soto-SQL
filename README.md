@@ -29,13 +29,14 @@ Plaintext
 │   └── BBDD_Proyecto.sql       # Script original para la creación y carga de la BBDD
 ├── queries/
 │   └── soluciones_consultas.sql # Archivo con las 64 queries resueltas
+|   └── BBDD_Proyecto - diagrama.png # diagrama de la BBDD
 └── README.md                   # Documentación del proyecto
 3. Instalación y Requisitos
 Para reproducir este análisis en tu entorno local, necesitarás:
 
 Motor de Base de Datos: PostgreSQL (recomendado) o cualquier base de datos compatible con SQL estándar (con ligeras modificaciones).
 
-Cliente SQL: DBeaver, pgAdmin, o terminal.
+Cliente SQL: DBeaver.
 
 Pasos para ejecutar:
 
@@ -66,15 +67,7 @@ Optimización: Analizar el plan de ejecución (EXPLAIN ANALYZE) de las consultas
 Automatización: Crear Stored Procedures para reportes mensuales automáticos de ingresos y clientes morosos.
 
 6. Contribuciones
-Las contribuciones son bienvenidas. Si tienes una forma más eficiente de realizar alguna de las consultas complejas o encuentras un error, por favor:
 
-Haz un Fork del repositorio.
-
-Crea una nueva rama (git checkout -b feature/nueva-consulta).
-
-Envía un Pull Request.
 
 7. Autores y Agradecimientos
-Autor: [Tu Nombre]
-
-Agradecimientos: Al equipo de DataProject por plantear el reto de lógica SQL y proporcionar el dataset de prueba.
+Autor: Juan Diego Soto González
