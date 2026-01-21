@@ -29,6 +29,7 @@ Plaintext
 │   └── BBDD_Proyecto.sql       # Script original para la creación y carga de la BBDD
 ├── queries/
 │   └── soluciones_consultas.sql # Archivo con las 64 queries resueltas
+│   └── soluciones_consultas_2.sql # Archivo con las 64 queries resueltas tras correcciones
 |   └── BBDD_Proyecto - diagrama.png # diagrama de la BBDD
 └── README.md                   # Documentación del proyecto
 3. Instalación y Requisitos
